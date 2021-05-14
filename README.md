@@ -7,7 +7,7 @@
 - 🔭 I’m student 21 school
 - 🌱 I’m currently learning JavaScript
 - 📫 My codewars profile https://www.codewars.com/users/AliyaZa
-https://www.codewars.com/users/AliyaZa/badges/small
+<img src=https://www.codewars.com/users/AliyaZa/badges/small>
 
 ## 42 Projects:
 ### Libft - Rewriting library
