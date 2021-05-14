@@ -11,7 +11,7 @@ https://www.codewars.com/users/AliyaZa/badges/small
 
 ## 42 Projects:
 ### Libft - Rewriting library
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/libft)](https://github.com/AliyaZa/Libft)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/Libft)](https://github.com/AliyaZa/Libft)
 
 ### Ft-printf - Rewriting the real printf
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/ft_printf)](https://github.com/AliyaZa/ft_printf)
