@@ -25,8 +25,11 @@
 ### Ft_server - First meeting with Docker
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/ft_server)](https://github.com/AliyaZa/ft_server)
 
-### Minishell - simple version of shell
+### Minishell - Simple version of shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/minishell)](https://github.com/AliyaZa/minishell)
+
+### Ft_services - Work with Docker and VirtualMachine
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/ft_services)](https://github.com/AliyaZa/ft_services)
 
 <!--
 **AliyaZa/AliyaZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
