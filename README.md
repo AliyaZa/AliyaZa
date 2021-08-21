@@ -31,6 +31,9 @@
 ### Ft_services - Work with Docker and VirtualMachine
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/ft_services)](https://github.com/AliyaZa/ft_services)
 
+### Philosophers - the basics of threading a process, learning how to make threads and discovering the mutex.
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/nhill/philosophers)](https://github.com/AliyaZa/Philosophers)
+
 <!--
 **AliyaZa/AliyaZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
